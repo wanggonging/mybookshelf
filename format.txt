@@ -1,0 +1,8 @@
+﻿* UTF-8
+* First line: title, enclosed with 《》
+* Second line: author followed by " 著"
+* Optional: publisher, year
+* One line per paragraph. One empty line between paragraphs.
+* Two empty lines before chapter.
+* Use full width chinese punctuators ：，。？ etc.
+* End document with（全文完).
